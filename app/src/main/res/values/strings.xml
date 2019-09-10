@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Comik Manga</string>
+    <string name="judul_manga">Judul Manga</string>
+    <string name="genre_manga">Genre</string>
+    <string name="last_volume">LAST VOLUME</string>
+    <string name="volume">Volume</string>
+    <string name="view_deskripsi">DESKRIPSI</string>
+    <string name="baca_manga">BACA MANGA</string>
+    <string name="view_detail">DETAIL</string>
+    <string name="view_nama_penerbit">Nama Penerbit</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="tanggal_terbit">Tanggal Terbit</string>
+    <string name="view_tanggal_terbit">Tanggal Terbit</string>
+    <string name="view_volume">Volume</string>
+    <string name="profil_pengarang">PROFIL PENGARANG</string>
+    <string name="nama_pengarang">Nama Pengarang</string>
+    <string name="email">luthfirobit@gmail.com</string>
+    <string name="phone">0852-0455-7072</string>
+    <string name="address">Pakuniran, Probolinggo, Jawa Timur</string>
+    <string name="name">LUTHFI NURUL HUDA</string>
+    <string name="status">Student</string>
+    <string name="age">20 YO</string>
+    <string name="text_line">|</string>
+</resources>
